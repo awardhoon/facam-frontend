@@ -53,6 +53,5 @@
         "operatingSystemFamily": "LINUX"
     },
     "registeredAt": "2023-07-06T08:30:40.022Z",
-    "registeredBy": "arn:aws:iam::112777105075:user/testuser-1",
-    "tags": []
+    "registeredBy": "arn:aws:iam::112777105075:user/testuser-1"
 }
